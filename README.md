@@ -2,7 +2,7 @@
 
 Jogo da velha (Tic Tac Toe) criado para disciplina de Programação Mobile, criado por Kleber de Oliveira Andrade
 
-Resolvido por Francisco Henrique da Silva Fzuari de Souza
+Resolvido por Gustavo henrique Braz da Silva
 
 Tutorial de criação deste app: [clique aqui](https://medium.com/@kleberandrade/criando-um-jogo-da-velha-em-flutter-50347537c926)
 
