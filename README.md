@@ -7,9 +7,9 @@ Resolvido por Francisco Henrique da Silva Fzuari de Souza
 Tutorial de criação deste app: [clique aqui](https://medium.com/@kleberandrade/criando-um-jogo-da-velha-em-flutter-50347537c926)
 
 <p align="center">
-    <img src="https://github.com/FuzariFrancisco/TicTacToe-Flutter/blob/master/tic1.jpeg" width="250"/>
-    <img src="https://github.com/FuzariFrancisco/TicTacToe-Flutter/blob/master/tic2.jpeg" width="250"/>
-    <img src="https://github.com/FuzariFrancisco/TicTacToe-Flutter/blob/master/tic3.jpeg" width="250"/>
+    <img src="https://github.com/GustavoBraz00/TicTacToe-Flutter/blob/master/print1.jpeg" width="250"/>
+    <img src="https://github.com/GustavoBraz00/TicTacToe-Flutter/blob/master/print2.jpeg" width="250"/>
+    <img src="https://github.com/GustavoBraz00/TicTacToe-Flutter/blob/master/print3.jpeg" width="250"/>
 </p>
 
 ## Como clonar o projeto
